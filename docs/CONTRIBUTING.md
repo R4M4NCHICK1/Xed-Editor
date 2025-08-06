@@ -1,4 +1,4 @@
-Submitting Pull Requests
+ Submitting Pull Requests
 
 We follow the GitHub Flow. To submit a pull request:
 
